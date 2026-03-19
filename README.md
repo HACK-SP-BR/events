@@ -1,4 +1,4 @@
-# hacksp-events
+# events
 
 Public event database for Hack SP.
 
@@ -7,7 +7,7 @@ This repository stores public event data in a simple JSON file and serves images
 ## Files
 
 ```txt
-hacksp-events/
+events/
 ├── events.json
 └── assets/
     └── events/
