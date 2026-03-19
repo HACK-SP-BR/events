@@ -63,7 +63,7 @@ Example:
       "duration": "10h"
     },
     "photos": [
-      "https://raw.githubusercontent.com/HACK-SP-BR/hacksp-events/main/assets/events/daydream-sp/event1.jpeg"
+      "https://raw.githubusercontent.com/HACK-SP-BR/events/main/assets/events/daydream-sp/event1.jpeg"
     ]
   }
 }
@@ -76,13 +76,13 @@ This repository is meant to be consumed directly from GitHub raw URLs.
 Main JSON file:
 
 ```txt
-https://raw.githubusercontent.com/HACK-SP-BR/hacksp-events/main/events.json
+https://raw.githubusercontent.com/HACK-SP-BR/events/main/events.json
 ```
 
 Images also use raw GitHub URLs:
 
 ```txt
-https://raw.githubusercontent.com/HACK-SP-BR/hacksp-events/main/assets/events/daydream-sp/event1.jpeg
+https://raw.githubusercontent.com/HACK-SP-BR/events/main/assets/events/daydream-sp/event1.jpeg
 ```
 
 ## Notes

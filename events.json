@@ -23,18 +23,18 @@
       "duration": "10h"
     },
     "photos": [
-      "https://raw.githubusercontent.com/HACK-SP-BR/hacksp-events/main/assets/events/daydream-sp/event1.jpeg",
-      "https://raw.githubusercontent.com/HACK-SP-BR/hacksp-events/main/assets/events/daydream-sp/event2.jpeg",
-      "https://raw.githubusercontent.com/HACK-SP-BR/hacksp-events/main/assets/events/daydream-sp/event3.jpeg",
-      "https://raw.githubusercontent.com/HACK-SP-BR/hacksp-events/main/assets/events/daydream-sp/event4.jpeg",
-      "https://raw.githubusercontent.com/HACK-SP-BR/hacksp-events/main/assets/events/daydream-sp/event5.jpeg"
+      "https://raw.githubusercontent.com/HACK-SP-BR/events/main/assets/events/daydream-sp/event1.jpeg",
+      "https://raw.githubusercontent.com/HACK-SP-BR/events/main/assets/events/daydream-sp/event2.jpeg",
+      "https://raw.githubusercontent.com/HACK-SP-BR/events/main/assets/events/daydream-sp/event3.jpeg",
+      "https://raw.githubusercontent.com/HACK-SP-BR/events/main/assets/events/daydream-sp/event4.jpeg",
+      "https://raw.githubusercontent.com/HACK-SP-BR/events/main/assets/events/daydream-sp/event5.jpeg"
     ]
   },
   "drx": {
     "id": "drx",
     "status": "past",
     "name": "DRX by Hack SP",
-    "bannerUrl": "https://raw.githubusercontent.com/HACK-SP-BR/hacksp-events/main/assets/events/drx_hacksp/drx_banner.jpg",
+    "bannerUrl": "https://raw.githubusercontent.com/HACK-SP-BR/events/main/assets/events/drx_hacksp/drx_banner.jpg",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Taqtile%20Sumar%C3%A9%20S%C3%A3o%20Paulo%20SP",
     "translations": {
       "pt": {
@@ -56,10 +56,10 @@
       "duration": "12h"
     },
     "photos": [
-      "https://raw.githubusercontent.com/HACK-SP-BR/hacksp-events/main/assets/events/drx_hacksp/event1.jpeg",
-      "https://raw.githubusercontent.com/HACK-SP-BR/hacksp-events/main/assets/events/drx_hacksp/event2.jpeg",
-      "https://raw.githubusercontent.com/HACK-SP-BR/hacksp-events/main/assets/events/drx_hacksp/event3.jpeg",
-      "https://raw.githubusercontent.com/HACK-SP-BR/hacksp-events/main/assets/events/drx_hacksp/event4.jpeg"
+      "https://raw.githubusercontent.com/HACK-SP-BR/events/main/assets/events/drx_hacksp/event1.jpeg",
+      "https://raw.githubusercontent.com/HACK-SP-BR/events/main/assets/events/drx_hacksp/event2.jpeg",
+      "https://raw.githubusercontent.com/HACK-SP-BR/events/main/assets/events/drx_hacksp/event3.jpeg",
+      "https://raw.githubusercontent.com/HACK-SP-BR/events/main/assets/events/drx_hacksp/event4.jpeg"
     ]
   }
 }
