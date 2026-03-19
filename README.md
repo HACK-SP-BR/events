@@ -2,7 +2,7 @@
 
 Public event database for Hack SP.
 
-This repository stores public event data in a simple JSON file and serves images through a free CDN.
+This repository stores public event data in a simple JSON file and serves images from GitHub raw URLs.
 
 ## Files
 
@@ -63,31 +63,31 @@ Example:
       "duration": "10h"
     },
     "photos": [
-      "https://cdn.jsdelivr.net/gh/USERNAME/hacksp-events/assets/events/daydream-sp/event1.jpeg"
+      "https://raw.githubusercontent.com/HACK-SP-BR/hacksp-events/main/assets/events/daydream-sp/event1.jpeg"
     ]
   }
 }
 ```
 
-## CDN usage
+## Public usage
 
-This repository is meant to be consumed with jsDelivr.
+This repository is meant to be consumed directly from GitHub raw URLs.
 
-Base format:
+Main JSON file:
 
 ```txt
-https://cdn.jsdelivr.net/gh/USERNAME/hacksp-events/events.json
+https://raw.githubusercontent.com/HACK-SP-BR/hacksp-events/main/events.json
 ```
 
-Images also use the same CDN:
+Images also use raw GitHub URLs:
 
 ```txt
-https://cdn.jsdelivr.net/gh/USERNAME/hacksp-events/assets/events/daydream-sp/event1.jpeg
+https://raw.githubusercontent.com/HACK-SP-BR/hacksp-events/main/assets/events/daydream-sp/event1.jpeg
 ```
 
 ## Notes
 
 * Keep all image URLs public
-* Use full CDN URLs inside `events.json`
+* Use full raw GitHub URLs inside `events.json`
 * Do not use local imports in the JSON file
 * This repository is public and intended for read-only use by websites and apps
